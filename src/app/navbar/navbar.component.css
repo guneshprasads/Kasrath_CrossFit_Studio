@@ -1,0 +1,21 @@
+.navbar{
+    background-color: #252128 !important;
+}
+.dropdown-menu{
+    background-color: #252128 !important;
+}
+
+.navbartext{
+    font-size: 18px !important;
+    font-weight: 400;
+    font-style:normal;
+    font-variant:normal;
+    color:#969596 !important; 
+}
+.navbartext:hover{
+    color: #FE6148 !important;
+    background-color: #252128 !important;
+}
+.login{
+    color: #FE6148 !important;
+}
