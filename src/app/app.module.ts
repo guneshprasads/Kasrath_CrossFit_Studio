@@ -7,13 +7,15 @@ import { AppComponent } from './app.component';
 import { NavbarComponent } from './navbar/navbar.component';
 import { RowoneComponent } from './rowone/rowone.component';
 import { RowsecondComponent } from './rowsecond/rowsecond.component';
+import { RowthirdComponent } from './rowthird/rowthird.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     NavbarComponent,
     RowoneComponent,
-    RowsecondComponent
+    RowsecondComponent,
+    RowthirdComponent
   ],
   imports: [
     BrowserModule,

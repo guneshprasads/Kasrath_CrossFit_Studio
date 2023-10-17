@@ -1,0 +1,33 @@
+.secondrowline {
+    background-color: #252128 !important;
+}
+.centered3 {
+    transform: translate(-20%, -110%);
+    text-align: center;
+    color: white;
+    z-index: 1; 
+}
+
+.name3 {
+    font-size: 4.5rem !important;
+}
+
+.subtitle3 {
+    font-size: 4.5rem !important;
+}
+
+
+.booknow,
+.membership {
+    padding: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+    /* color: #FE6148 !important; */
+}
+
+
+
+
+
+
