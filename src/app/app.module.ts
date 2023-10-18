@@ -8,6 +8,7 @@ import { NavbarComponent } from './navbar/navbar.component';
 import { RowoneComponent } from './rowone/rowone.component';
 import { RowsecondComponent } from './rowsecond/rowsecond.component';
 import { RowthirdComponent } from './rowthird/rowthird.component';
+import { RowfourthComponent } from './rowfourth/rowfourth.component';
 
 @NgModule({
   declarations: [
@@ -15,7 +16,8 @@ import { RowthirdComponent } from './rowthird/rowthird.component';
     NavbarComponent,
     RowoneComponent,
     RowsecondComponent,
-    RowthirdComponent
+    RowthirdComponent,
+    RowfourthComponent
   ],
   imports: [
     BrowserModule,
