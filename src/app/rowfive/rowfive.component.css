@@ -1,0 +1,16 @@
+.booknow{
+    color: #FE6148 !important;
+    background-color: #2c2630 !important;
+}
+.rowfivebackground{
+    background-color: #232125 !important;
+}
+.rowfivetext{
+    font-size: 3.5rem !important;
+    color: white;
+    letter-spacing: 0.1em;
+}
+.booknow:hover{
+    color: #252128 !important;
+    background-color: #FE6148 !important;
+}

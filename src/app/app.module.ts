@@ -9,6 +9,7 @@ import { RowoneComponent } from './rowone/rowone.component';
 import { RowsecondComponent } from './rowsecond/rowsecond.component';
 import { RowthirdComponent } from './rowthird/rowthird.component';
 import { RowfourthComponent } from './rowfourth/rowfourth.component';
+import { RowfiveComponent } from './rowfive/rowfive.component';
 
 @NgModule({
   declarations: [
@@ -17,7 +18,8 @@ import { RowfourthComponent } from './rowfourth/rowfourth.component';
     RowoneComponent,
     RowsecondComponent,
     RowthirdComponent,
-    RowfourthComponent
+    RowfourthComponent,
+    RowfiveComponent
   ],
   imports: [
     BrowserModule,
