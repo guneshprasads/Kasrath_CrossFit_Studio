@@ -1,0 +1,19 @@
+.centered4 {
+    position: relative;
+}
+.centered4text{
+   position: absolute;
+   transform: translate(0%, -170%);
+   text-align: center;
+   color: white;
+   z-index: 1;
+}
+
+.name4 {
+   font-size: 7.5rem !important;
+   color: #252128;
+}
+
+.subtitle3 {
+   font-size: 4.5rem !important;
+}
