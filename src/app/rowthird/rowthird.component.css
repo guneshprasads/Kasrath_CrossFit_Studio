@@ -4,6 +4,11 @@
 .centered3 {
      position: relative;
 }
+.backgroundimage{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
 .centered3text{
     position: absolute;
     transform: translate(-20%, -110%);
