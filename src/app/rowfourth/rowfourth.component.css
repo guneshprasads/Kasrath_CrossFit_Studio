@@ -1,12 +1,21 @@
 .centered4 {
-    position: relative;
+   position: relative;
 }
-.centered4text{
+
+.centered4text {
    position: absolute;
-   transform: translate(0%, -170%);
+   top: 50%;
+   left: 50%;
+   transform: translate(-50%, -50%);
    text-align: center;
    color: white;
    z-index: 1;
+}
+
+.backgroundimage {
+   width: 100%;
+   height: 100%;
+   object-fit: cover;
 }
 
 .name4 {
