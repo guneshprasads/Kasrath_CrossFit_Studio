@@ -1,0 +1,20 @@
+.secondrowline {
+    background-color: #252128 !important;
+    
+}
+.roweight{
+    background-color: #fe6148 !important;
+}
+.roweightin{
+    background-color: #fe6148 !important;
+    border: 2px solid #252128;
+    outline: none;
+    resize: none;
+}
+.roweightin::placeholder {
+    color: black;
+}
+.booknow{
+    color: #FE6148 !important;
+    background-color: #252128 !important;
+}
