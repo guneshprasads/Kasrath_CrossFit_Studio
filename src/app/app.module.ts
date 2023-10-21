@@ -13,6 +13,7 @@ import { RowfiveComponent } from './rowfive/rowfive.component';
 import { RowsixComponent } from './rowsix/rowsix.component';
 import { RowsevenComponent } from './rowseven/rowseven.component';
 import { RoweightComponent } from './roweight/roweight.component';
+import { ServicesComponent } from './services/services.component';
 
 @NgModule({
   declarations: [
@@ -25,7 +26,8 @@ import { RoweightComponent } from './roweight/roweight.component';
     RowfiveComponent,
     RowsixComponent,
     RowsevenComponent,
-    RoweightComponent
+    RoweightComponent,
+    ServicesComponent
   ],
   imports: [
     BrowserModule,
